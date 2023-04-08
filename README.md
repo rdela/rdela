@@ -1,10 +1,8 @@
 # it (read)me 🏴‍☠️🏳️‍🌈🏳️‍⚧️
 
-<ul>
-	<li>🌐 my website: <a href="https://rdela.com">rdela.com</a></li>
-	<li>🤖 my studio: <a href="https://famebot.com">famebot.com</a></li>
-	<li>🐘 on mastodon: <a href="https://mastodon.social/@rdela" rel="me nofollow">@rdela@mastodon.social</a></li>
-</ul>
+- 🌐 my website: [rdela.com](https://rdela.com)
+- 🤖 my studio: [famebot.com](https://famebot.com)
+- 🐘 on mastodon: [@rdela@mastodon.social](https://mastodon.social/@rdela)
 
 ## latest project
 
