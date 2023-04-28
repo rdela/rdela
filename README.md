@@ -2,7 +2,7 @@
 
 Aloha. I go by Ricky and use [he or they pronouns](https://www.lgbtqnation.com/2022/05/people-use-pronouns/).
 
-Repos aspire to [Trunk Based Development](https://trunkbaseddevelopment.com), “a source-control branching model, where developers collaborate on code in a single branch called trunk [and] resist any pressure to create other long-lived development branches.”
+Repos aspire to [Trunk Based Development](https://trunkbaseddevelopment.com), “a source-control branching model where developers collaborate on code in a single branch called trunk [and] resist any pressure to create other long-lived development branches.”
 
 - 🌐 my website: [rdela.com](https://rdela.com)
 - 🤖 my studio: [famebot.com](https://famebot.com)
