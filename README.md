@@ -10,10 +10,10 @@ Repos aspire to [Trunk Based Development](https://trunkbaseddevelopment.com), �
 
 ## latest project
 
-### eleventeen 🌈📓
+### chromagen 🎨💥 Color Scheme Generator 
 
-- 👾 demo: [eleventeen.blog](https://eleventeen.blog) 
-- 💻 source: [rdela/eleventeen](https://github.com/rdela/eleventeen)
+- 👾 demo: [chromagen.io](https://chromagen.io) 
+- 💻 source: [famebot/chromagen](https://github.com/famebot/chromagen)
 
 <br />
 
