@@ -20,7 +20,7 @@ Color Scheme Generator
 
 ### [eleventeen](https://eleventeen.blog)
 
-Among other features, eleventeen adds optional [Rainbow Mode](https://eleventeen.blog/about/) powered by Chromagen to the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) blog starter for [Eleventy (11ty)](https://www.11ty.dev/), “a simpler static site generator.”
+Among other features, eleventeen adds optional [Rainbow Mode](https://eleventeen.blog/about/) powered by Chromagen to the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) starter for the award-winning open source site generator [Eleventy (11ty)](https://www.11ty.dev/).
 
 - [eleventeen.blog](https://eleventeen.blog) = demo
 - [rdela/eleventeen](https://github.com/rdela/eleventeen) = source
