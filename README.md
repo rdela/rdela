@@ -11,19 +11,26 @@ In these repos, shorthand for source code repositories, I aspire to [Trunk Based
 
 ## Latest Projects
 
+### [Xeo](https://xeo.land)
+
+Variant of [Lume](https://lume.land) Simple Blog theme 
+
+- demo: [xeo.land](https://xeo.land)
+- source: [famebot/xeo](https://github.com/famebot/xeo)
+
 ### [Chromagen](https://chromagen.io)
 
 Color Scheme Generator
 
-- [chromagen.io](https://chromagen.io) = demo
-- [famebot/chromagen](https://github.com/famebot/chromagen) = source
+- demo: [chromagen.io](https://chromagen.io)
+- source: [famebot/chromagen](https://github.com/famebot/chromagen)
 
 ### [eleventeen](https://eleventeen.blog)
 
-Among other features, eleventeen adds optional [Rainbow Mode](https://eleventeen.blog/about/) powered by Chromagen to the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) starter for the award-winning open source site generator [Eleventy (11ty)](https://www.11ty.dev/).
+Eleventy blog starter with [Rainbow Mode](https://eleventeen.blog/about/#rainbow-mode) powered by Chromagen.
 
-- [eleventeen.blog](https://eleventeen.blog) = demo
-- [rdela/eleventeen](https://github.com/rdela/eleventeen) = source
+- demo: [eleventeen.blog](https://eleventeen.blog)
+- source: [rdela/eleventeen](https://github.com/rdela/eleventeen)
 
 <br />
 
