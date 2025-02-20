@@ -2,7 +2,7 @@
 
 Aloha. I go by Ricky and use [he or they pronouns](https://www.lgbtqnation.com/2022/05/people-use-pronouns/).
 
-Let’s aspire to “collaborate on code in a single branch called trunk [and] resist any pressure to create other long-lived development branches,” and call it [🌳 **Trunk Based Development** 🔗](https://trunkbaseddevelopment.com/).
+Let’s aspire to “collaborate on code in a single branch called trunk [and] resist any pressure to create other long-lived development branches,” and call it [🔗 **Trunk Based Development** 🌳](https://trunkbaseddevelopment.com/)
 
 - [rdela.com](https://rdela.com) = my website
 - [famebot.com](https://famebot.com) = micro movie studio I run with [Laramie Dennis](https://laramiedennis.com)
