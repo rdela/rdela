@@ -6,7 +6,7 @@ Let’s aspire to “collaborate on code in a single branch called trunk [and] r
 
 - [rdela.com](https://rdela.com) = my website
 - [famebot.com](https://famebot.com) = micro movie studio I run with [Laramie Dennis](https://laramiedennis.com)
-- [artact.io](https://artact.io) = creative agency advocating for positive change I co-founded with [Clifford J. Tasner](https://www.cliffordjtasner.com/)
+- [artact.io](https://artact.io) = creative studio advocating for positive change I co-founded with [Clifford J. Tasner](https://www.cliffordjtasner.com/)
 - [@rdela@mastodon.social](https://mastodon.social/@rdela) = me on mastodon
 
 ## Latest Projects
