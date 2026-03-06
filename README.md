@@ -25,11 +25,11 @@ Color Scheme Generator
 - demo: [chromagen.io](https://chromagen.io)
 - source: [famebot/chromagen](https://github.com/famebot/chromagen)
 
-### [eleventeen](https://eleventeen.blog)
+### [eleventeen](https://eleventeen.netlify.app)
 
-Eleventy blog starter with [Rainbow Mode](https://eleventeen.blog/about/#rainbow-mode) powered by Chromagen.
+Eleventy blog starter with [Rainbow Mode](https://eleventeen.netlify.app/about/#rainbow-mode) powered by Chromagen.
 
-- demo: [eleventeen.blog](https://eleventeen.blog)
+- demo: [eleventeen.netlify.app](https://eleventeen.netlify.app)
 - source: [rdela/eleventeen](https://github.com/rdela/eleventeen)
 
 <br />
